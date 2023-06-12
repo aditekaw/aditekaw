@@ -1,104 +1,72 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+# Sajib Hossain
 
-### <div align="center">Hi there, My name is Aditya Eka Wibowo but you can call me Adit, I'm a full-time IT Staff and part-time Full-stack Developer learner 👨‍💻 </div>  
-  
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:adityaekaw21@gmail.com)
+[![Twitter Follow](https://img.shields.io/badge/dynamic/json.svg?color=14171A&labelColor=37474f&logo=twitter&logoColor=4fc3f7&label=&query=%24[0].followers_count&url=https%3A%2F%2Fcdn.syndication.twimg.com%2Fwidgets%2Ffollowbutton%2Finfo.json%3Fscreen_names%3Dsajib1066&suffix=%20Followers)](https://twitter.com/fokusfrontend)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/aditya-eka-wibowo-51ab28147/)
+<a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=sajib1066"></a>
+:wave: Hi there, My name is Aditya Eka Wibowo but you can call me Adit.😀 I'm 27 years old, I'm a full-time IT STaff at PT. Putra Gerem Jaya and a part-time Full-stack Devs learner.
+I've profound knowledge in Front-end Technology and Machine Learning. 
+Currently, I completed Bachelor's Degree in Computational Science from Telkom University. 
+I'm interested in doing research on design and database related problems. 
+I love to work with new technologies and playing with Data and AI.🤖
 
-- 🔭 I’m currently working at [PT. Putra Gerem Jaya](https://www.putrageremjaya.co.id/)  
-  
+<h2>My Tech Stack</h2>
+<table>
+  <tr>
+    <td align="center">
+      <img alt="python" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+      <br>Python
+    </td>
+    <td align="center">
+      <img alt="javascript" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+      <br>Javascript
+    </td>
+    <td align="center">
+      <img alt="react" height=64px src="https://user-images.githubusercontent.com/39632170/109031546-077fa800-76ef-11eb-90ee-f49c93b996b7.png">
+      <br>Java
+    </td>
+    <td align="center">
+      <img alt="tailwind" height=64px src="https://opencv.org/wp-content/uploads/2021/01/OpenCV-logo.png">
+      <br>OpenCV
+    </td>
+    <td align="center">
+      <img alt="bootstrap" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+      <br>Bootstrap
+    </td>
+    <td align="center">
+      <img alt="jquery" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
+      <br>jQuery
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img alt="postgresql" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+      <br>PostgreSQL
+    </td>
+    <td align="center">
+      <img alt="mysql" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+      <br>MySQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img alt="nginx" height=64px src="https://cdn.worldvectorlogo.com/logos/nginx-1.svg">
+      <br>Nginx
+    </td>
+    <td align="center">
+      <img alt="pycharm" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
+      <br>PyCharm
+    </td>
+    <td align="center">
+      <img alt="webstorm" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg">
+      <br>WebStorm
+    </td>
+  </tr>
+</table>
 
-- 🌱 I’m currently learning AngularJS and VueJS  
-  
+![aditekaw's Stats](https://github-readme-stats.vercel.app/api?username=aditekaw&theme=onedark&show_icons=true&hide_border=true&count_private=false)
+![aditekaw's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditekaw&theme=onedark&show_icons=true&hide_border=true&layout=compact)
+## My Repos
 
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/aditekaw" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/fokusfrontend" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/aditya-eka-wibowo-51ab28147" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=aditekaw&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+[![Putra Gerem Jaya (Company Profile Website)](https://github-readme-stats.vercel.app/api/pin/?username=sajib1066&repo=sajib-notes&show_owner=true)](https://github.com/aditekaw/putrageremjaya)
+[![job-finder-backend](https://github-readme-stats.vercel.app/api/pin/?username=sajib1066&repo=job-finder-backend&show_owner=true)](https://github.com/sajib1066/job-finder-backend)
