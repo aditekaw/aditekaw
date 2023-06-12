@@ -1,55 +1,92 @@
-# Aditya Eka Wibowo
+<div align="center">
+  <img height="150" src="https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif"  />
+</div>
 
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:adityaekaw21@gmail.com)
-[![Twitter Follow](https://img.shields.io/badge/dynamic/json.svg?color=14171A&labelColor=37474f&logo=twitter&logoColor=4fc3f7&label=&query=%24[0].followers_count&url=https%3A%2F%2Fcdn.syndication.twimg.com%2Fwidgets%2Ffollowbutton%2Finfo.json%3Fscreen_names%3Dsajib1066&suffix=%20Followers)](https://twitter.com/fokusfrontend)
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/aditya-eka-wibowo-51ab28147/)
-<a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=aditekaw"></a>
-:wave: Hi there, My name is Aditya Eka Wibowo but you can call me Adit.😀 I'm 27 years old, I'm a full-time IT STaff at PT. Putra Gerem Jaya and a part-time Full-stack Devs learner.
-I've profound knowledge in Front-end Technology and Machine Learning. 
-Currently, I completed Bachelor's Degree in Computational Science from Telkom University. 
-I'm interested in doing research on design and database related problems. 
-I love to work with new technologies.
+###
 
-<h2>My Tech Stack</h2>
-<table>
-  <tr>
-    <td align="center">
-      <img alt="python" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-      <br>Python
-    </td>
-    <td align="center">
-      <img alt="javascript" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-      <br>Javascript
-    </td>
-    <td align="center">
-      <img alt="bootstrap" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-      <br>Bootstrap
-    </td>
-    <td align="center">
-      <img alt="jquery" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
-      <br>jQuery
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img alt="postgresql" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-      <br>PostgreSQL
-    </td>
-    <td align="center">
-      <img alt="mysql" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-      <br>MySQL
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img alt="nginx" height=64px src="https://cdn.worldvectorlogo.com/logos/nginx-1.svg">
-      <br>Nginx
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://www.linkedin.com/in/aditya-eka-wibowo-51ab28147/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/fokusfrontend" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <a href="mailto:adityaekaw21@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
 
-![aditekaw's Stats](https://github-readme-stats.vercel.app/api?username=aditekaw&theme=onedark&show_icons=true&hide_border=true&count_private=false)
-![aditekaw's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditekaw&theme=onedark&show_icons=true&hide_border=true&layout=compact)
-## My Repos
+###
 
-[![Putra Gerem Jaya (Company Profile Website)](https://github-readme-stats.vercel.app/api/pin/?username=aditekaw&repo=putrageremjaya&show_owner=true)](https://github.com/aditekaw/putrageremjaya)
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=aditekaw.aditekaw&"  />
+</div>
+
+###
+
+<h3 align="left">About Me</h3>
+
+###
+
+<p align="left">Hi there, My name is Aditya Eka Wibowo.😀 I completed Bachelor's Degree in Computational Science at Telkom University. I love to work with new technologies and also interested <br><br>- 🔭 I’m working as IT Staff at PT. Putra Gerem Jaya.<br>- 📚 I'm currently learning anything related with Full-stack Devs.<br>- ⚡ In my free time I love to read some articles and watch some videos about Full-stack stack's.</p>
+
+###
+
+<h3 align="left">Front-end Development</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+</div>
+
+###
+
+<h3 align="left">Back-end Development</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+</div>
+
+###
+
+<h3 align="left">My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=aditekaw&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aditekaw&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aditekaw&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
