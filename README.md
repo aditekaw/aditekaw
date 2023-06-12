@@ -8,7 +8,7 @@
 I've profound knowledge in Front-end Technology and Machine Learning. 
 Currently, I completed Bachelor's Degree in Computational Science from Telkom University. 
 I'm interested in doing research on design and database related problems. 
-I love to work with new technologies and playing with Data and AI.🤖
+I love to work with new technologies.
 
 <h2>My Tech Stack</h2>
 <table>
